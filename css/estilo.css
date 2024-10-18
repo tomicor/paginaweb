@@ -1,0 +1,176 @@
+body{
+    background-image: url("../img/wallpaper.png");
+ background-repeat: no-repeat;
+ background-size: 100%;
+}
+
+#escenario{
+position: absolute;
+top: 60px;
+    left: 670px;
+
+    background-color:white;
+width: 580px;
+height: 200px;
+border: 2px solid black;
+
+border-bottom-left-radius: 30%;
+border-bottom-right-radius: 30%;
+
+}
+
+#cuad1, 
+#cuad2,
+#cuad3,
+#cuad4,
+#cuad5,
+#cuad6,
+#cuad7, 
+#cuad8,
+#cuad9,
+#cuad10,
+#cuad11,
+#cuad12,
+#cuad13, 
+#cuad14,
+#cuad15,
+#cuad16,
+#cuad17,
+#cuad18,
+#cuad19, 
+#cuad20,
+#cuad21,
+#cuad22,
+#cuad23,
+#cuad24,
+#cuad25,
+#cuad26,
+#cuad27,
+#cuad28,
+#cuad29,
+#cuad30
+{
+    position: absolute;
+    font-size: 80px;
+ 
+    background-color: rgb(4, 196, 4);
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    text-align: center;
+}
+
+
+
+#cuad3{
+    top: 380px;
+    left: 680px;
+}
+#cuad4{
+    top: 380px;
+    left: 780px;
+}
+#cuad5{
+    top: 380px;
+    left: 880px;
+}
+#cuad6{
+    top: 380px;
+    left: 980px; 
+}
+#cuad7{
+    top: 380px;
+    left: 1080px; 
+}
+#cuad8{
+    top: 380px;
+    left: 1180px; 
+}
+
+
+
+
+
+
+
+#cuad12{
+    top: 480px;
+    left: 580px ;
+}
+#cuad13{
+    top: 480px;
+    left: 680px ;
+}
+#cuad14{
+    top: 480px;
+    left: 780px ;
+}
+#cuad15{
+    top: 480px;
+    left: 880px ;
+}
+#cuad16{
+    top: 480px;
+    left: 980px ;
+}
+#cuad17{
+    top: 480px;
+    left: 1080px ;
+}
+#cuad18{
+    top: 480px;
+    left: 1180px ;
+}
+#cuad19{
+    top: 480px;
+    left: 1280px; 
+}
+
+
+
+
+
+
+#cuad21{
+    top: 580px;
+    left: 480px ;
+}
+#cuad22{
+    top: 580px;
+    left: 580px ;
+}
+#cuad23{
+    top: 580px;
+    left: 680px ;
+}
+#cuad24{
+    top: 580px;
+    left: 780px ;
+}
+#cuad25{
+    top: 580px;
+    left: 880px ;
+}
+#cuad26{
+    top: 580px;
+    left: 980px ;
+}
+#cuad27{
+    top: 580px;
+    left: 1080px ;
+}
+#cuad28{
+    top: 580px;
+    left: 1180px ;
+}
+#cuad29{
+    top: 580px;
+    left: 1280px ;
+}
+#cuad30{
+    top: 580px;
+    left: 1380px ;
+}
